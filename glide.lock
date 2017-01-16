@@ -1,0 +1,6 @@
+hash: 21d92ecee10c553e46a148fcac612f17f46947c352a60e01c070df73db192437
+updated: 2017-01-16T18:49:55.768292142-05:00
+imports:
+- name: github.com/pborman/uuid
+  version: a97ce2ca70fa5a848076093f05e639a89ca34d06
+testImports: []
